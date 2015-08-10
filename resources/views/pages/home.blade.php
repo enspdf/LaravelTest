@@ -1,5 +1,9 @@
 @extends('app')
 
 @section('content')
-    Home Page
+    <center>
+    	<div class="alert alert-success">
+    		<h1>DMCA - APP</h1>
+    	</div>
+    </center>
 @stop
